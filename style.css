@@ -50,3 +50,6 @@
     width: 105%;
 
 }
+p{
+    align-self: flex-end
+}
